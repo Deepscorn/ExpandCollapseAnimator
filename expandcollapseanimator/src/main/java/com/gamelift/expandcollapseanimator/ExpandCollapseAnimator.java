@@ -10,6 +10,9 @@ import java.util.Map;
 import java.util.SortedMap;
 import java.util.TreeMap;
 
+/**
+ * Created by Deepscorn on 04/07/15. For questions and licensing contact vnms11@gmail.com
+ */
 // Expands and collapses list items with animation. Each item must be VerticalClipView.
 // start(), pause() - control animation
 // Call add() and setExpanding() from onPreDrawListener, because these methods rely on layout in recyclerview.

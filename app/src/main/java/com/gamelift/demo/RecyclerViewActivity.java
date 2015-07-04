@@ -5,7 +5,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+/**
+ * Created by Deepscorn on 04/07/15. For questions and licensing contact vnms11@gmail.com
+ */
 public class RecyclerViewActivity extends ActionBarActivity {
 
     @Override

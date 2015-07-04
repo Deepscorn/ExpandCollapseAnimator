@@ -17,6 +17,9 @@ import android.view.WindowManager;
 import com.gamelift.expandcollapseanimator.ExpandCollapseAnimator;
 import com.gamelift.expandcollapseanimator.VerticalClipLayout;
 
+/**
+ * Created by Deepscorn on 04/07/15. For questions and licensing contact vnms11@gmail.com
+ */
 public class RecyclerViewActivityFragment extends Fragment {
 
     private static final String LOG_TAG = "RecyclerDemo";

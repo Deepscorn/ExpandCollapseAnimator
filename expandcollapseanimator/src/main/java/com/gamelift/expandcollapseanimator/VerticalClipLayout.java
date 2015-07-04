@@ -8,6 +8,9 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.FrameLayout;
 
+/**
+ * Created by Deepscorn on 04/07/15. For questions and licensing contact vnms11@gmail.com
+ */
 // currently I know about 2 ways to implement that view:
 // 1. use negative bottom margin, let cards overlap and translate up. Only need to clip (Intersect)
 // area below and not dispatch touch events
