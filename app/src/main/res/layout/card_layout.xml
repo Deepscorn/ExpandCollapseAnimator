@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.gamelift.expandcollapseanimator.VerticalClipLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"> <!-- It is height of the collapsed card. It is set programmatically in that example. -->
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"> <!-- It is height of the expanded (full) card. It is set programmatically in that example. -->
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/colour" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/gradient"/>
+
+    </FrameLayout>
+</com.gamelift.expandcollapseanimator.VerticalClipLayout>
