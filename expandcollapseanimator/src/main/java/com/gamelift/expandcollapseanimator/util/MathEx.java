@@ -1,8 +1,8 @@
+/**
+ * Created by Michael Turner (aka Deepscorn) on 04/07/15
+ */
 package com.gamelift.expandcollapseanimator.util;
 
-/**
- * Created by Deepscorn on 04/07/15. For questions and licensing contact vnms11@gmail.com
- */
 public class MathEx {
     // Compares a and b, allways taking epsilon into account. Returns:
     // -1 when a < b
