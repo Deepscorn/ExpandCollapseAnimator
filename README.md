@@ -1,5 +1,5 @@
 # ExpandCollapseAnimator
-Android animator of view's height whether it is an item of RecyclerView or ListView or any regular view
+Android animator of view's height whether it is an item of RecyclerView or ListView or any regular view. 
 
 Key intents of that library are:
 
@@ -40,6 +40,8 @@ You can find example code in project "app". If you run it on android device, you
 * RecyclerViewAdapter - adapter with example of how you can change item height programmatically
 
 ## License
+It's free to use as long as you give credit to author.
+
 Copyright 2014 Tokarev Mikhail (also known as Deepscorn)
 
 Licensed under the Apache License, Version 2.0 (the "License");
