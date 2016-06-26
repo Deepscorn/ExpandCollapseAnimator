@@ -22,7 +22,6 @@ b. ExpandCollapseAnimator - use it if you need to make common list behaviour:
 
 while 1 item expands, all the other collapses.
 
-// adds view to processing
 
 ExpandCollapseAnimator.add(int position, VerticalClipLayout view) - adds view to processing
 
